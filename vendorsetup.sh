@@ -1,1 +1,1 @@
-add_lunch_combo cm_z3c-eng
+add_lunch_combo candy5_z3c-userdebug
