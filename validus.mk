@@ -4,7 +4,7 @@ $(call inherit-product, vendor/validus/config/common_full_phone.mk)
 # Enhanced NFC
 $(call inherit-product, vendor/validus/config/nfc_enhanced.mk)
 
-$(call inherit-product, device/validus/z3c/full_z3c.mk)
+$(call inherit-product, device/sony/z3c/full_z3c.mk)
 
 PRODUCT_BUILD_PROP_OVERRIDES += PRODUCT_NAME=D5803
 PRODUCT_BUILD_PROP_OVERRIDES += BUILD_FINGERPRINT=Sony/D5803/D5803:5.0.2/23.1.A.1.28/151083418:user/release-keys
